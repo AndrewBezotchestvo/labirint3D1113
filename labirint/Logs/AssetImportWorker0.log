@@ -1083,3 +1083,35 @@ Received Import Request.
 Start importing Assets/Scenes/level1.unity using Guid(a307324fe7aeec841a5e62f31b25910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7ee38645cb377ae8e0bdc076a07d31') in 0.002421 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 352.219810 seconds.
+  path: Assets/зкуафиуы
+  artifactKey: Guid(876262c0c64dd154b8f0fb3a41e390da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/зкуафиуы using Guid(876262c0c64dd154b8f0fb3a41e390da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b1fed2f530bc9c698b12a0169ca1c9') in 0.000659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.694303 seconds.
+  path: Assets/prefabes
+  artifactKey: Guid(876262c0c64dd154b8f0fb3a41e390da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabes using Guid(876262c0c64dd154b8f0fb3a41e390da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb256cedc47ac92ed9eb4b79f6b2a9eb') in 0.000432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.824385 seconds.
+  path: Assets/prefabes/teleport.prefab
+  artifactKey: Guid(637aed23a519cff41848b17116da1bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabes/teleport.prefab using Guid(637aed23a519cff41848b17116da1bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff11d100603e5bc8df6b0dd92a8084ef') in 0.107509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 1605.416299 seconds.
+  path: Assets/Scenes/level2.unity
+  artifactKey: Guid(653b989ba8a81f94eb9aeac81e7c52e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level2.unity using Guid(653b989ba8a81f94eb9aeac81e7c52e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c257dd9334587ef84fde451ea08d7cda') in 0.000696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
